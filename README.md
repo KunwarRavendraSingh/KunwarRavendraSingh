@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
 - 🔭 I’m currently working on [Marketing and Product analytics]
 
 - 🌱 I’m currently learning **Data engineering tools and techniques- dbt, Snowflake, Airflow**
